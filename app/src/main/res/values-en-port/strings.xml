@@ -1,0 +1,3 @@
+<resources>
+    <string name="overridden_twice">Unqualified value</string>
+</resources>
